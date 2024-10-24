@@ -38,8 +38,8 @@ I'm a passionate developer and lifelong learner who loves building innovative so
 
 ## 🚀 My Projects:
 
-- **[Internship projects](https://github.com/RDX463/intern_project.git)):** Short description of the project.
-- **[Device Tree](https://github.com/pixelstar-devices/device_xiaomi_redwood.git):** Short description of the project.
+- **[Internship projects](https://github.com/RDX463/intern_project.git):** Data Visualization Project.
+- **[Device Tree](https://github.com/pixelstar-devices/device_xiaomi_redwood.git)**
 
 ---
 
