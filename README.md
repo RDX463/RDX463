@@ -9,7 +9,7 @@ I'm a passionate developer and lifelong learner who loves building innovative so
 - 🔭 I’m currently working on: **[Andorid Kernel for sm8350]**
 - 🌱 I’m currently learning: **[Cloud Computing(AWS), Rust , Java, and metasploit]**
 - 💬 Ask me about: **[Python scripting , Error Handling and resolving and Android developemnet]**
-- 📫 How to reach me: [rohanbalsaraf@gmail.com] | [www.linkedin.com/in/rohan-balsaraf-94b955252]
+- 📫 How to reach me: [rohanbalsaraf@gmail.com] 
 
 ---
 
@@ -38,21 +38,13 @@ I'm a passionate developer and lifelong learner who loves building innovative so
 
 ## 🚀 My Projects:
 
-- **[Project Name 1](Link to Project):** Short description of the project.
-- **[Project Name 2](Link to Project):** Short description of the project.
-- **[Project Name 3](Link to Project):** Short description of the project.
-
----
-
-## 🌐 Let's Connect:
-
-[![LinkedIn](www.linkedin.com/in/rohan-balsaraf-94b955252)](Your LinkedIn URL)
+- **[Internship projects](https://github.com/RDX463/intern_project.git)):** Short description of the project.
+- **[Device Tree](https://github.com/pixelstar-devices/device_xiaomi_redwood.git):** Short description of the project.
 
 ---
 
 ## 🎨 Hobbies & Interests:
 
 - 🎮 Gaming
-- 📚 Reading about [Your favorite topics]
 - 🚴‍♂️ Cycling
 - ✨ Open-source contributions
