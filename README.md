@@ -23,12 +23,14 @@ I'm a passionate developer and lifelong learner who loves building innovative so
 
 ### **Frameworks & Libraries**  
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter) 
 
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)  
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)  
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud)
 
 ---
 
