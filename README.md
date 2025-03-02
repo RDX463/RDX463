@@ -1,50 +1,52 @@
-# Hi there 👋, I'm [Rohan Balsaraf]!
+# Hi there 👋, I'm **Rohan Balsaraf**!  
 
-I'm a passionate developer and lifelong learner who loves building innovative solutions and contributing to open-source projects. I specialize in [Cyber Security and Android Development], and I'm always excited to work on new challenges that allow me to grow and share my knowledge.
-
----
-
-## 🌟 About Me:
-
-- 🔭 I’m currently working on: **[Andorid Kernel for sm8350]**
-- 🌱 I’m currently learning: **[Cloud Computing(AWS), Rust , Java, and metasploit]**
-- 💬 Ask me about: **[Python scripting , Error Handling and resolving and Android developemnet]**
-- 📫 How to reach me: [rohanbalsaraf@gmail.com] 
+I'm a passionate developer and lifelong learner who loves building innovative solutions and contributing to open-source projects. I specialize in **Cyber Security and Android Development** and am always excited to tackle new challenges that help me grow and share my knowledge.  
 
 ---
 
-## 🛠️ Skills:
+## 🌟 About Me  
 
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
-
-- **Frameworks & Libraries:**  
-  ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-
-- **Tools & Platforms:**  
-  ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+- 🔭 **Currently Working On:** [Android Kernel for SM8350]  
+- 🌱 **Currently Learning:** Cloud Computing (AWS), Rust, Java, and Metasploit  
+- 💬 **Ask Me About:** Python scripting, error handling & resolution, and Android development  
+- 📫 **How to Reach Me:** [rohanbalsaraf@gmail.com](mailto:rohanbalsaraf@gmail.com)  
 
 ---
 
-## 📊 GitHub Stats:
+## 🛠️ Skills  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)  
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)  
+
+### **Frameworks & Libraries**  
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)  
+
+### **Tools & Platforms**  
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)  
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)  
 
 ---
 
-## 🚀 My Projects:
+## 📊 GitHub Stats  
 
-- **[Internship projects](https://github.com/RDX463/intern_project.git):** Data Visualization Project.
-- **[Device Tree](https://github.com/pixelstar-devices/device_xiaomi_redwood.git)**
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDX463&show_icons=true&theme=radical)  
 
 ---
 
-## 🎨 Hobbies & Interests:
+## 🚀 My Projects  
 
-- 🎮 Gaming
-- 🚴‍♂️ Cycling
-- ✨ Open-source contributions
+- 🔹 **[Python Project](https://github.com/RDX463/python_script.git)** – Log File Analyzer  
+- 🔹 **[Flutter Project](https://github.com/RDX463/erp_project.git)** – ERP System  
+
+---
+
+## 🎨 Hobbies & Interests  
+
+- 🎮 Gaming  
+- 🚴‍♂️ Cycling  
+- ✨ Open-source contributions 
