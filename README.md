@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=RDX463&style=flat-square&color=blue)
 
-I'm a passionate developer and lifelong learner who loves building innovative solutions and contributing to open-source projects. I specialize in **Cyber Security and Software Development** and am always excited to tackle new challenges that help me grow and share my knowledge.
+I'm a passionate developer and lifelong learner who loves building innovative solutions and contributing to open-source projects. I specialize in **Cyber Security and Android Development** and am always excited to tackle new challenges that help me grow and share my knowledge.
 
 ---
 
@@ -47,6 +47,10 @@ I'm a passionate developer and lifelong learner who loves building innovative so
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=oracle&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-000?style=for-the-badge&logo=nvidia&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -58,15 +62,23 @@ I'm a passionate developer and lifelong learner who loves building innovative so
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RDX463&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🚀 My Projects
 
-- 🔹 **[Log File Analyzer (Python)](https://github.com/RDX463/python_script.git)**  
-- 🔹 **[ERP System (Flutter)](https://github.com/RDX463/erp_project.git)**  
+- 🔹 **[Log File Analyzer (Python)](https://github.com/RDX463/python_script.git)**
+- 🔹 **[ERP System (Flutter)](https://github.com/RDX463/erp_project.git)**
 
 ---
 
 ## 🎨 Hobbies & Interests
 
-- 🎮 Gaming  
-- 🚴‍♂️ Cycling  
+- 🎮 Gaming
+- 🚴‍♂️ Cycling
 - ✨ Open-source contributions
+
+---
