@@ -51,6 +51,8 @@ I'm a passionate developer and lifelong learner who loves building innovative so
 ![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-000?style=for-the-badge&logo=nvidia&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
