@@ -13,7 +13,7 @@
 ---
 
 💡 I'm a passionate developer and lifelong learner who loves building innovative solutions and contributing to open-source projects.  
-🚀 I specialize in **Cyber Security** & **Android Development**, and I’m always eager to tackle new challenges that help me grow and share my knowledge.  
+🚀 I specialize in **Cyber Security** & **Android Development** **Web Development**, and I’m always eager to tackle new challenges that help me grow and share my knowledge.  
 
 ---
 
@@ -22,12 +22,12 @@
 <div align="center">
   <table>
     <tr>
-      <td>🔭 <b>Currently Working On:</b></td>
-      <td>Android Kernel for SM8350 and exploring new technologies</td>
+      <td>🔭 <b>Currently Studying:</b></td>
+      <td>Core Java and exploring new technologies</td>
     </tr>
     <tr>
       <td>🌱 <b>Currently Learning:</b></td>
-      <td>Cloud Computing (AWS), Dart, Java, and Metasploit</td>
+      <td>Cloud Computing (AWS), Large Data</td>
     </tr>
     <tr>
       <td>💬 <b>Ask Me About:</b></td>
