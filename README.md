@@ -24,11 +24,11 @@ I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Tec
 
 ## ⚡ About Me
 
-- [cite_start]🎓 **Education:** Bachelor of Computer Engineering, Ajeenkya DY Patil School of Engineering[cite: 5, 9].
-- [cite_start]💼 **Experience:** Former Data Engineering Intern at **Shoption Pvt Ltd** (ETL Pipelines, Hadoop, PowerBI)[cite: 23, 25].
-- [cite_start]🐧 **Open Source:** Active maintainer for **Poco X5 Pro** device trees (LineageOS, Project Sakura)[cite: 48, 52].
-- [cite_start]🔐 **Certifications:** Google Cyber Security Foundation & AWS Cloud Computing[cite: 44, 46].
-- [cite_start]📫 **Reach Me:** [rohanbalsaraf9@gmail.com](mailto:rohanbalsaraf9@gmail.com)[cite: 3].
+- 🎓 **Education:** Bachelor of Computer Engineering, Ajeenkya DY Patil School of Engineering.
+- 💼 **Experience:** Former Data Engineering Intern at **Shoption Pvt Ltd** (ETL Pipelines, Hadoop, PowerBI).
+- 🐧 **Open Source:** Active maintainer for **Poco X5 Pro** device trees (LineageOS, Project Sakura).
+- 🔐 **Certifications:** Google Cyber Security Foundation & AWS Cloud Computing[cite: 44, 46].
+- 📫 **Reach Me:** [rohanbalsaraf9@gmail.com](mailto:rohanbalsaraf9@gmail.com).
 
 ---
 
@@ -60,21 +60,22 @@ I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Tec
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| [cite_start]**[Vuln Vault](https://github.com/RDX463/VulnVault)**  | Node.js, Docker Swarm, AWS, Redis | A distributed network vulnerability scanner using Prometheus, Grafana, and Traefik for monitoring. |
-| [cite_start]**[AI-Based ERP System](https://github.com/RDX463/erp_project)** [cite: 29] | Flutter, Python, MongoDB, GCP | Smart student data management system with automated attendance and predictive analytics. |
-| [cite_start]**[NIR-VIS Face Recognition](https://github.com/RDX463/face_recognition)**  | Python, TensorFlow, ResNet50 | Implemented a face recognition system for NIR and VIS images using Triplet Loss. |
+| **[Vuln Vault](https://github.com/RDX463/VulnVault)**  | Node.js, Docker Swarm, AWS, Redis | A distributed network vulnerability scanner using Prometheus, Grafana, and Traefik for monitoring. |
+| **[AI-Based ERP System](https://github.com/RDX463/erp_project)**  | Flutter, Python, MongoDB, GCP | Smart student data management system with automated attendance and predictive analytics. |
+| **[NIR-VIS Face Recognition](https://github.com/RDX463/face_recognition)**  | Python, TensorFlow, ResNet50 | Implemented a face recognition system for NIR and VIS images using Triplet Loss. |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RDX463&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDX463&layout=compact&theme=radical&hide_border=true" height="150" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RDX463&theme=radical&hide_border=true" height="140" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDX463&show_icons=true&theme=radical)](https://github.com/RDX463)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDX463&layout=compact&theme=radical)](https://github.com/RDX463)
+
+[![Streak Stats](https://streak-stats.demolab.com?user=RDX463&theme=radical)](https://git.io/streak-stats)
+
 </div>
 
 ---
