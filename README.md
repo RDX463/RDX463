@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Rohan Balsaraf! 👋
+# Rohan Balsaraf
 
 <img src="https://komarev.com/ghpvc/?username=RDX463&style=flat-square&color=blue" alt="Visitor Badge" />
 <a href="https://github.com/RDX463?tab=followers">
@@ -10,11 +10,7 @@
   <img src="https://img.shields.io/github/stars/RDX463?label=Stars&style=flat-square&logo=github&color=181717" />
 </a>
 
-<br/>
-
-### 👨‍💻 Computer Engineer | Cloud & DevOps | Cybersecurity Enthusiast
-
-<br/>
+### Computer Engineer | Cloud & DevOps | Cybersecurity
 
 I am a Computer Engineer proficient in **Go (Golang), Python, Machine Learning, and Cloud Technologies (AWS, GCP)**. My expertise bridges the gap between **Full-Stack Development** and **DevOps**, with a strong focus on building AI-powered developer tools and secure, scalable solutions.
 
@@ -22,74 +18,54 @@ I am a Computer Engineer proficient in **Go (Golang), Python, Machine Learning, 
 
 ---
 
-## ⚡ About Me
+## About
 
-- 🎓 **Education:** Bachelor of Computer Engineering, Ajeenkya DY Patil School of Engineering.
-- 💼 **Experience:** Former Data Engineering Intern at **Shoption Pvt Ltd** (ETL Pipelines, Hadoop, PowerBI).
-- 🐧 **Open Source:** Active maintainer for **Poco X5 Pro** device trees (LineageOS, Project Sakura).
-- 🔐 **Certifications:** Google Cyber Security Foundation & AWS Cloud Computing[cite: 44, 46].
-- 📫 **Reach Me:** [rohanbalsaraf9@gmail.com](mailto:rohanbalsaraf9@gmail.com).
+- **Education:** Bachelor of Computer Engineering, Ajeenkya DY Patil School of Engineering.
+- **Experience:** Former Data Engineering Intern at **Shoption Pvt Ltd** (ETL Pipelines, Hadoop, PowerBI).
+- **Open Source:** Active maintainer for **Poco X5 Pro** device trees (LineageOS, Project Sakura).
+- **Certifications:** Google Cyber Security Foundation & AWS Cloud Computing.
+- **Contact:** [rohanbalsaraf9@gmail.com](mailto:rohanbalsaraf9@gmail.com).
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=go,python,cpp,java,dart,js,html,css" />
-
-<br/>
-
-**Cloud, DevOps & Security**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,jenkins,grafana,prometheus" />
-
-<br/>
-
-**Frameworks & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,react,flutter,mongodb,mysql,redis,hadoop" />
+<img src="https://skillicons.dev/icons?i=go,python,cpp,java,dart,js,html,css,aws,gcp,docker,linux,jenkins,grafana,prometheus,django,flask,fastapi,nodejs,react,flutter,mongodb,mysql,redis,hadoop" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[github-work-summary](https://github.com/RDX463/github-work-summary)** | Go, Gemini AI, Bubble Tea, Cobra | A professional CLI for generating AI-powered work summaries with an interactive TUI dashboard. |
-| **[PingMeUp Platform](https://github.com/VISAM2529)** | Go, React, Redis, Postgres, Docker | A scalable reminders and customer management platform with multi-service architecture. |
-| **[Vuln Vault](https://github.com/RDX463/VulnVault)**  | Node.js, Docker Swarm, AWS, Redis | A distributed network vulnerability scanner using Prometheus, Grafana, and Traefik for monitoring. |
+| **[github-work-summary](https://github.com/RDX463/github-work-summary)** | Go, Gemini AI, Bubble Tea | A professional CLI for generating AI-powered work summaries with an interactive TUI dashboard. |
+| **[PingMeUp Platform](https://github.com/VISAM2529)** | Go, React, Redis, Postgres | A scalable reminders and customer management platform with multi-service architecture. |
+| **[Vuln Vault](https://github.com/RDX463/VulnVault)**  | Node.js, Docker Swarm, AWS | A distributed network vulnerability scanner using Prometheus, Grafana, and Traefik for monitoring. |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDX463&show_icons=true&theme=radical)](https://github.com/RDX463)
+[![Stats](https://github-readme-stats.vercel.app/api?username=RDX463&show_icons=true&theme=transparent&hide_border=true)](https://github.com/RDX463)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDX463&layout=compact&theme=radical)](https://github.com/RDX463)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDX463&layout=compact&theme=transparent&hide_border=true)](https://github.com/RDX463)
 
-[![Streak Stats](https://streak-stats.demolab.com?user=RDX463&theme=radical)](https://git.io/streak-stats)
+[![Streak Stats](https://streak-stats.demolab.com?user=RDX463&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 <div align="center">
-  <a href="mailto:rohanbalsaraf9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/rohanbalsaraf">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/RDX463">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+[Email](mailto:rohanbalsaraf9@gmail.com) | [LinkedIn](https://linkedin.com/in/rohanbalsaraf) | [GitHub](https://github.com/RDX463)
+
 </div>
