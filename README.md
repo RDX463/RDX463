@@ -16,7 +16,7 @@
 
 <br/>
 
-I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Technologies (AWS, GCP)**. My expertise bridges the gap between **Full-Stack Development** and **DevOps**, with a strong focus on building secure, scalable solutions.
+I am a Computer Engineer proficient in **Go (Golang), Python, Machine Learning, and Cloud Technologies (AWS, GCP)**. My expertise bridges the gap between **Full-Stack Development** and **DevOps**, with a strong focus on building AI-powered developer tools and secure, scalable solutions.
 
 </div>
 
@@ -38,7 +38,7 @@ I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Tec
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,dart,js,html,css" />
+<img src="https://skillicons.dev/icons?i=go,python,cpp,java,dart,js,html,css" />
 
 <br/>
 
@@ -60,9 +60,9 @@ I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Tec
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
+| **[github-work-summary](https://github.com/RDX463/github-work-summary)** | Go, Gemini AI, Bubble Tea, Cobra | A professional CLI for generating AI-powered work summaries with an interactive TUI dashboard. |
+| **[PingMeUp Platform](https://github.com/VISAM2529)** | Go, React, Redis, Postgres, Docker | A scalable reminders and customer management platform with multi-service architecture. |
 | **[Vuln Vault](https://github.com/RDX463/VulnVault)**  | Node.js, Docker Swarm, AWS, Redis | A distributed network vulnerability scanner using Prometheus, Grafana, and Traefik for monitoring. |
-| **[AI-Based ERP System](https://github.com/RDX463/erp_project)**  | Flutter, Python, MongoDB, GCP | Smart student data management system with automated attendance and predictive analytics. |
-| **[NIR-VIS Face Recognition](https://github.com/RDX463/face_recognition)**  | Python, TensorFlow, ResNet50 | Implemented a face recognition system for NIR and VIS images using Triplet Loss. |
 
 ---
 
