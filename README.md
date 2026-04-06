@@ -52,11 +52,11 @@ I am a Computer Engineer proficient in **Go (Golang), Python, Machine Learning, 
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=RDX463&show_icons=true&theme=transparent&hide_border=true)](https://github.com/RDX463)
+[![Stats](https://github-readme-stats.vercel.app/api?username=RDX463&show_icons=true&theme=dark&hide_border=true)](https://github.com/RDX463)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDX463&layout=compact&theme=transparent&hide_border=true)](https://github.com/RDX463)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDX463&layout=compact&theme=dark&hide_border=true)](https://github.com/RDX463)
 
-[![Streak Stats](https://streak-stats.demolab.com?user=RDX463&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![Streak Stats](https://streak-stats.demolab.com?user=RDX463&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
