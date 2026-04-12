@@ -43,7 +43,7 @@ I am a Computer Engineer proficient in **Go (Golang), Python, Machine Learning, 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[github-work-summary](https://github.com/RDX463/github-work-summary)** | Go, Gemini AI, Bubble Tea | A professional CLI for generating AI-powered work summaries with an interactive TUI dashboard. |
-| **[PingMeUp Platform](https://github.com/VISAM2529)** | Go, React, Redis, Postgres | A scalable reminders and customer management platform with multi-service architecture. |
+| **[Zenith Browser](https://github.com/RDX463/zenith-browser.git)** | A minimal, fast, and elegant web browser built with Rust. Zenith combines native WebView performance with a modern, distraction-free interface powered by React. |
 | **[Vuln Vault](https://github.com/RDX463/VulnVault)**  | Node.js, Docker Swarm, AWS | A distributed network vulnerability scanner using Prometheus, Grafana, and Traefik for monitoring. |
 
 ---
